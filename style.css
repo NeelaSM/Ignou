@@ -1,0 +1,24 @@
+#navigation img {
+  width:20%;
+  
+}
+
+#center img {
+width:100%;
+}
+
+#navigation li a{
+  font-size: 2rem;
+  color: blue;
+  border:5px solid darkred;
+  margin-right: 2rem;
+  box-shadow: 2px 2px 2px 2px black;
+  
+}
+
+#navigation li a:hover{
+  background-color: skyblue;
+  font-size: 2rem;
+  border-bottom: 5px solid darkred;
+  
+}
